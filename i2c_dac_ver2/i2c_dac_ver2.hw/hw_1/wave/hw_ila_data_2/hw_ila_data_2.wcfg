@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/zajac/i2c_dac_ver2/i2c_dac_ver2.hw/hw_1/wave/hw_ila_data_2/hw_ila_data_2.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="16739000fs"></ZoomStartTime>
+      <ZoomEndTime time="29689001fs"></ZoomEndTime>
+      <Cursor1Time time="24679000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="214"></NameColumnWidth>
+      <ValueColumnWidth column_width="149"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="6" />
+   <wave_markers>
+   </wave_markers>
+   <wvobject fp_name="system_i/system_ila_0/inst/SLOT_0_IIC_sda_i_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">system_i/system_ila_0/inst/SLOT_0_IIC_sda_i_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_IIC_sda_i_1</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_i/system_ila_0/inst/SLOT_0_IIC_sda_o_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">system_i/system_ila_0/inst/SLOT_0_IIC_sda_o_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_IIC_sda_o_1</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_i/system_ila_0/inst/SLOT_0_IIC_sda_t_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">system_i/system_ila_0/inst/SLOT_0_IIC_sda_t_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_IIC_sda_t_1</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_i/system_ila_0/inst/SLOT_0_IIC_scl_i_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">system_i/system_ila_0/inst/SLOT_0_IIC_scl_i_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_IIC_scl_i_1</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_i/system_ila_0/inst/SLOT_0_IIC_scl_o_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">system_i/system_ila_0/inst/SLOT_0_IIC_scl_o_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_IIC_scl_o_1</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="system_i/system_ila_0/inst/SLOT_0_IIC_scl_t_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">system_i/system_ila_0/inst/SLOT_0_IIC_scl_t_1</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_IIC_scl_t_1</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

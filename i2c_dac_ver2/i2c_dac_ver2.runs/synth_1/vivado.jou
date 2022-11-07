@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Jun  4 14:04:44 2022
+# Process ID: 12564
+# Current directory: C:/Users/zajac/i2c_dac_ver2/i2c_dac_ver2.runs/synth_1
+# Command line: vivado.exe -log system_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source system_wrapper.tcl
+# Log file: C:/Users/zajac/i2c_dac_ver2/i2c_dac_ver2.runs/synth_1/system_wrapper.vds
+# Journal file: C:/Users/zajac/i2c_dac_ver2/i2c_dac_ver2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source system_wrapper.tcl -notrace

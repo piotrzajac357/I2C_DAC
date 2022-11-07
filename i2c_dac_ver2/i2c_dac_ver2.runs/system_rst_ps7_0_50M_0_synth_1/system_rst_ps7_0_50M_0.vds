@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Jun  3 22:25:33 2022
+# Process ID: 9312
+# Current directory: C:/Users/zajac/i2c_dac_ver2/i2c_dac_ver2.runs/system_rst_ps7_0_50M_0_synth_1
+# Command line: vivado.exe -log system_rst_ps7_0_50M_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source system_rst_ps7_0_50M_0.tcl
+# Log file: C:/Users/zajac/i2c_dac_ver2/i2c_dac_ver2.runs/system_rst_ps7_0_50M_0_synth_1/system_rst_ps7_0_50M_0.vds
+# Journal file: C:/Users/zajac/i2c_dac_ver2/i2c_dac_ver2.runs/system_rst_ps7_0_50M_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source system_rst_ps7_0_50M_0.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/zajac/ip_repo/iic_watch_1.0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2019.1/data/ip'.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP system_rst_ps7_0_50M_0, cache-ID = efad4ba108024fb5.
+INFO: [Common 17-206] Exiting Vivado at Fri Jun  3 22:25:45 2022...
